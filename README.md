@@ -2,6 +2,26 @@
 
 This repository contains implementations of various Inverse Reinforcement Learning (IRL) and Imitation Learning algorithms applied to CartPole and GridWorld environments.
 
+## T-REX Implementation
+
+The T-REX (Trajectory-ranked Reward EXtrapolation) implementation in this repository provides a framework for learning reward functions from suboptimal demonstrations. The core implementation in `trex/trex.py` includes:
+
+- Trajectory ranking and reward learning from demonstrations
+- Value iteration for policy optimization
+- Reward function approximation using neural networks
+- Policy execution and evaluation
+
+The implementation follows the T-REX algorithm which:
+1. Ranks trajectories based on their performance
+2. Learns a reward function that explains the ranking
+3. Uses the learned reward to train a policy
+
+The `trex/services` directory contains supporting modules for:
+- Reward learning and prediction
+- Trajectory generation and processing
+- Policy optimization
+- Various IRL algorithms (GAIL, Maximum Entropy, Maximum Margin)
+
 ## Environments
 
 ### CartPole Environment
