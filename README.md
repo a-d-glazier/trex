@@ -67,4 +67,4 @@ The implementations are based on the following papers:
 - "Generative Adversarial Imitation Learning" (Ho & Ermon, 2016)
 - "Maximum Entropy Inverse Reinforcement Learning" (Ziebart et al., 2008)
 - "Apprenticeship Learning via Inverse Reinforcement Learning" (Abbeel & Ng, 2004)
-- "Inverse Constrained Reinforcement Learning" (Anwar & Malik, 2022)
+- "Inverse Constrained Reinforcement Learning" (Malik et al., ICML 2021)
