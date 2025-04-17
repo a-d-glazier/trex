@@ -64,6 +64,7 @@ python gridworld/learn_gail.py
 ## References
 
 The implementations are based on the following papers:
+- "Extrapolating Beyond Suboptimal Demonstrations via Inverse Reinforcement Learning from Observations" (Brown et al., 2019)
 - "Generative Adversarial Imitation Learning" (Ho & Ermon, 2016)
 - "Maximum Entropy Inverse Reinforcement Learning" (Ziebart et al., 2008)
 - "Apprenticeship Learning via Inverse Reinforcement Learning" (Abbeel & Ng, 2004)
