@@ -1,4 +1,4 @@
-# T-REX: Trajectory-based Reward Extrapolation
+# Trajectory-ranked Reward EXtrapolation (T-REX)
 
 This repository contains implementations of various Inverse Reinforcement Learning (IRL) and Imitation Learning algorithms applied to CartPole and GridWorld environments.
 
