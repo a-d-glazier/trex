@@ -66,4 +66,3 @@ python gridworld/learn_gail.py
 The implementations are based on the following papers:
 - "Generative Adversarial Imitation Learning" (Ho & Ermon, 2016)
 - "Maximum Entropy Inverse Reinforcement Learning" (Ziebart et al., 2008)
-- "Algorithms for Inverse Reinforcement Learning" (Ng & Russell, 2000)
